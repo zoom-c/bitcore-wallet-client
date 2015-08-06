@@ -2,7 +2,7 @@
   "name": "bitcore-wallet-client",
   "description": "Client for bitcore-wallet-service",
   "author": "BitPay Inc",
-  "version": "0.0.43",
+  "version": "0.1.2",
   "keywords": [
     "bitcoin",
     "copay",
@@ -38,8 +38,6 @@
     "chai": "^1.9.1",
     "coveralls": "^2.11.2",
     "grunt-jsdoc": "^0.5.8",
-    "http": "0.0.0",
-    "https": "^1.0.0",
     "istanbul": "*",
     "jsdoc": "^3.3.0-beta1",
     "mocha": "^1.18.2",
